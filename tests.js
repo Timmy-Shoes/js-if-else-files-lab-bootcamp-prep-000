@@ -4,5 +4,5 @@ if (index.height === 70) {
 }
 
 if (index.name === "Susan") {
-    console.log("The height is correct")
+    console.log("The name is correct")
 }
